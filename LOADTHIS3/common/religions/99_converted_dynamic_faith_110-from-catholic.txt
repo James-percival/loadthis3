@@ -4,7 +4,7 @@ christian = {
 		icon =  176
 		country = {
  
-		technology_cost = -0.1
+		fervor = yes
 	
 
 		land_morale = 0.1
