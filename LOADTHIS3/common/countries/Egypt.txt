@@ -1,0 +1,107 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 255 220 104 }
+revolutionary_colors = { 5 0 1 }
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Aarif #1" = 10
+	"Ahmad #1" = 10
+	"Ala'i #1" = 10
+	"Ali #1" = 10
+	"Aram #2" = 10
+	"Eliezer #0" = 0
+	"Ignatios #1" = 10
+	"Kamran #1" = 10
+	"Matta #1" = 10
+	"Mellal #0" = 0
+	"Musa #0" = 0
+	"Sulayman #0" = 0
+	"Yazid #1" = 10
+	"Yusuf #1" = 10
+	"Zeyd #1" = 10
+	"al-Adid #1" = 10
+	"al-Amir #1" = 10
+	"al-Faiz #1" = 10
+	"al-Hafiz #1" = 10
+	"al-Hakim #1" = 10
+	"al-Mustali #1" = 10
+	"al-Mustansir #1" = 10
+	"al-Zafir #1" = 10
+	"az-Zahir #1" = 10
+}
+leader_names = {
+	"Ali"
+	"Aybak"
+	"Baibars"
+	"Bay"
+	"Bey"
+	"Bugha"
+	"Inâl"
+	"Kansur"
+	"Sayfuddin"
+	"Zangi"
+}
+ship_names = {
+	"Ad-Däkhilah"
+	"Adl"
+	"Ahmen Muyaid"
+	"Al-Ali"
+	"Al-Bahriyah"
+	"Al-Farafirah"
+	"Al-Kharijah"
+	"Alim"
+	"Ashraf Barsbay"
+	"Aziz"
+	"Aziz Gamal"
+	"Bari"
+	"Basir"
+	"Basit"
+	"Ben Barqooq"
+	"Farag Ben Barqooq"
+	"Fattah"
+	"Ghaffar"
+	"Hakam"
+	"Jabbar"
+	"Khafid"
+	"Khaliq"
+	"Malik"
+	"Mu'izz"
+	"Mu'min"
+	"Mudhill"
+	"Muhaymin"
+	"Musawwir"
+	"Mutakabbir"
+	"Muyaid Sheikh"
+	"Nahr an-Nil"
+	"Nasser Muhamed"
+	"Qabid"
+	"Qahhar"
+	"Quddus"
+	"Rafi"
+	"Rahim"
+	"Rahman"
+	"Razzaq"
+	"Salam"
+	"Sami"
+	"Wahhab"
+	"Zaher Barqooq"
+	"Zaher Tatar"
+}

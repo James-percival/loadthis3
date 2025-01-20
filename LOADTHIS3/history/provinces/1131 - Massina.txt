@@ -1,0 +1,17 @@
+owner = Z05
+controller = Z05
+capital = "Macina"
+is_city = yes
+culture = soninke
+religion = sunni
+trade_goods = grain
+base_tax = 2
+base_production = 3
+base_manpower = 1
+extra_cost = 8
+center_of_trade = 1
+add_core = Z05
+add_core = ZAF
+discovered_by = sub_saharan
+native_ferocity = 4
+native_hostileness = 9

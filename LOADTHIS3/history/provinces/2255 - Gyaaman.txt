@@ -1,0 +1,14 @@
+owner = MSI
+controller = MSI
+capital = "Amanvi"
+is_city = yes
+culture = aka
+religion = sunni
+trade_goods = coffee
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = ASH
+add_core = MSI
+add_permanent_claim = Z00
+discovered_by = sub_saharan

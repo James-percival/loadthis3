@@ -1,0 +1,97 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 93 180 76 }
+revolutionary_colors = { 8 0 6 }
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Aktsom #0" = 0
+	"Bhairabendranarayan #0" = 0
+	"Böntok #0" = 0
+	"Cepla #0" = 0
+	"Chögyel #0" = 0
+	"Dechen #0" = -1
+	"Dhondup #0" = 0
+	"Drakpa #0" = 0
+	"Dzeden #0" = -1
+	"Gangambika #0" = -1
+	"Gongpa #0" = 0
+	"Hoysaladevi #0" = -1
+	"Jampa #0" = -1
+	"Jamshid #0" = 0
+	"Ju #0" = 0
+	"Khadrobum #0" = -1
+	"Khritsun #0" = -1
+	"Kundavai #0" = -1
+	"Lhathrimo #0" = -1
+	"Lobsang #0" = 0
+	"Mangpojé #1" = -1
+	"Mé #0" = 0
+	"Naku #0" = 0
+	"Namkha #0" = -1
+	"Namlungpa #0" = 0
+	"Norbu #0" = -1
+	"Pasang #0" = 0
+	"Pila #0" = 0
+	"Prabhavati #0" = -1
+	"Sengemo #0" = -1
+	"Shok #0" = 0
+	"Singye #0" = 0
+	"Songngé #0" = 0
+	"Taramo #0" = -1
+	"Tenzin #0" = -1
+	"Tingngezin #0" = 0
+	"Trashitsé #0" = 0
+	"Tridra #0" = 0
+	"Trimonyen #0" = -1
+	"Tsédé #1" = 10
+	"Wangdue #0" = -1
+	"Xingge #0" = -1
+	"Yaksherpen #0" = 0
+	"Zangpa #0" = 0
+	"Zopa #0" = -1
+}
+leader_names = {
+	"Chomphel"
+	"Gyaltshen"
+	"Gyamtsho"
+	"Lhopi"
+	"Peljor"
+	"Phuntsho"
+	"Rabgye"
+	"Tshering"
+	"Wangchuk"
+	"Wangpo"
+}
+ship_names = {
+	"Chhu"
+	"Dng Chu"
+	"Manas Chu"
+	"Mangde Chu"
+	"Mo Chu"
+	"Pa Chu"
+	"Pho Chu"
+	"Punaka"
+	"Sangkosh"
+	"Thimbu"
+	"Tongsa Chu"
+	"Towang Chu"
+}

@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_110
+primary_culture = austrian
+capital = 128
+add_accepted_culture = slovene
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Diederik"
+		dynasty = "von Sponheim"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1421.6.20
+		religion = converted_dynamic_faith_110
+		culture = austrian
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = lawgiver_personality
+	queen = {
+		name = "Romana"
+		dynasty = "Luitpolding-Kranj"
+		adm = 2
+		dip = 4
+		mil = 2
+		country_of_origin = Z10
+		birth_date = 1423.3.6
+		death_date = 1483.3.6
+		female = yes
+		religion = converted_dynamic_faith_110
+		culture = slovene
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Claus"
+		monarch_name = "Claus"
+		dynasty = "von Sponheim"
+		adm = 0
+		dip = 1
+		mil = 0
+		birth_date = 1441.8.7
+		death_date = 1506.8.7
+		claim = 89
+		religion = converted_dynamic_faith_110
+		culture = saxon
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 78
+}

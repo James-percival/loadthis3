@@ -1,0 +1,77 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 72 113 160 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Clement #0" = 0
+	"Dmitar #0" = 0
+	"Ivan #0" = 0
+	"Marija #1" = -1
+	"Mutimir #0" = 0
+	"Radic #1" = 10
+	"Suronja #0" = -1
+	"Vukac #0" = 0
+}
+leader_names = {
+	"Babonic"
+	"Balsic"
+	"Branivojevic"
+	"Dragisic"
+	"Gradascevic"
+	"Hrvatinic"
+	"Isakovic"
+	"Kosaca"
+	"Kotromanic"
+	"Nelipic"
+	"Pavlovic"
+	"Radinovic"
+	"Sankovic"
+	"Santic"
+	"Sokolovic"
+	"Subic"
+	"Tvrtkovic"
+	"Vukasin"
+	"Vukcic"
+	"Vukovic"
+}
+ship_names = {
+	"Bileca"
+	"Blagaj"
+	"Bosna"
+	"Drijeva"
+	"Herceg Novi"
+	"Onogost"
+	"Rastislav"
+	"Soko"
+	"Ston"
+	"Sveti Sava"
+	"Tjentiste"
+	"Travunia"
+	"Zachlumia"
+}

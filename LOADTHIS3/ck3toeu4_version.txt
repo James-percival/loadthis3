@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 0.15O "Orisa"
+* Compatible with CK3 [v1.12-v1.14] and EU4 [v1.37]
+* Built on Wed Jan  1 12:57:24 2025
+*************************** + CK3 To EU4 + ***************************

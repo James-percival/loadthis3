@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_110
+primary_culture = alsatian
+capital = 75
+elector = yes
+1444.11.11= {
+	monarch = {
+		name = "Milo"
+		dynasty = "Etichonen-Freiburg"
+		adm = 4
+		dip = 5
+		mil = 5
+		birth_date = 1377.6.14
+		religion = converted_dynamic_faith_110
+		culture = alsatian
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mechthild"
+		dynasty = "von Hohenstaufen"
+		adm = 1
+		dip = 4
+		mil = 2
+		country_of_origin = ALS
+		birth_date = 1421.9.22
+		death_date = 1481.9.22
+		female = yes
+		religion = converted_dynamic_faith_110
+		culture = alsatian
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Irmeltrud"
+		monarch_name = "Irmeltrud"
+		dynasty = "Etichonen-Freiburg"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1409.11.24
+		death_date = 1474.11.24
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_110
+		culture = dynamic-swabian-culture-num1
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 91
+	add_treasury = 77
+}

@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = muslim
+religion = masmudi
+primary_culture = moroccan
+capital = 2466
+religious_school = shafii_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Umar"
+		dynasty = "Mu'minid"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1418.9.14
+		religion = masmudi
+		culture = moroccan
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
+	queen = {
+		name = "Durriyya"
+		dynasty = "Wattasid"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = Z1U
+		birth_date = 1420.9.16
+		death_date = 1480.9.16
+		female = yes
+		religion = masmudi
+		culture = berber
+	}
+	add_queen_personality = obsessive_perfectionist_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Tizemt"
+		monarch_name = "Tizemt"
+		dynasty = "Mu'minid"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1394.6.29
+		death_date = 1459.6.29
+		female = yes
+		claim = 89
+		religion = masmudi
+		culture = berber
+	}
+	add_heir_personality = martial_educator_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 65
+	add_treasury = 33
+}

@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_110
+primary_culture = norwegian
+capital = 369
+add_accepted_culture = icelandic
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Grímr III"
+		dynasty = "Skakki-Þrymlingar"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1419.5.17
+		religion = converted_dynamic_faith_110
+		culture = norwegian
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Margrethe"
+		dynasty = "Uilleim-Husumbro"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z22
+		birth_date = 1405.12.27
+		death_date = 1465.12.27
+		female = yes
+		religion = converted_dynamic_faith_110
+		culture = dynamic-danish-culture-num1
+	}
+	add_queen_personality = cruel_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Grýla"
+		monarch_name = "Grýla"
+		dynasty = "Skakki-Þrymlingar"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1437.1.22
+		death_date = 1502.1.22
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_110
+		culture = norwegian
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 61
+}

@@ -1,0 +1,163 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 192 5 24 }
+revolutionary_colors = { 0 5 0 }
+historical_idea_groups = {
+	economic_ideas
+	quantity_ideas
+	humanist_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abhayapala #0" = 0
+	"Acharya #0" = 0
+	"Anandibai #0" = -1
+	"Anangpala #0" = 0
+	"Anantadevi #0" = -1
+	"Anitalli #0" = -1
+	"Anubai #0" = -1
+	"Anuradha #0" = -1
+	"Aparajita #0" = 0
+	"Ari-Singh #0" = 0
+	"Avasara #0" = 0
+	"Bahadur-Singh #0" = 0
+	"Ballala #1" = 10
+	"Bhima #0" = 0
+	"Bhimadeva #0" = 0
+	"Bhiubai #0" = -1
+	"Bhoja #1" = 10
+	"Birpal #1" = 10
+	"Brahmdevpal #0" = 0
+	"Candrabhattarikadevi #0" = -1
+	"Chimza #0" = -1
+	"Câmuntappai #0" = -1
+	"Deepabai #0" = -1
+	"Dehanagadevi #0" = -1
+	"Desaladevi #0" = -1
+	"Devasakti #1" = 10
+	"Devavati #0" = -1
+	"Gopendraraja #0" = 0
+	"Govindapala #0" = 0
+	"Hemavati #0" = -1
+	"Jaspal #0" = 0
+	"Jayasimha #1" = 10
+	"Jayat-Singh #0" = 0
+	"Jayavarman #1" = 10
+	"Jhetpal #0" = 0
+	"Kakustha #1" = 10
+	"Kamadeva #0" = 0
+	"Kanchuka #0" = -1
+	"Karandeva #0" = 0
+	"Karnadeva #0" = 0
+	"Kharagraha #1" = 10
+	"Kumaragiri #0" = 0
+	"Kumarapala #1" = 10
+	"Lakshmana #1" = 10
+	"Lasani #0" = -1
+	"Lasthiyavva #0" = -1
+	"Lunavarman #0" = 0
+	"Madhavi #0" = -1
+	"Mahalakshmi #0" = -1
+	"Mahidevi #1" = -1
+	"Mahipal #1" = 10
+	"Malapâti #0" = -1
+	"Murarirao #0" = 0
+	"Nagabhata #2" = 10
+	"Namalladevi #0" = -1
+	"Nar-Verma #0" = 0
+	"Naravarman #1" = 10
+	"Nattadevi #0" = -1
+	"Pratha #0" = -1
+	"Prola #0" = 0
+	"Rajamati #0" = -1
+	"Rajasbai #0" = -1
+	"Sagunabai #0" = -1
+	"Sanyukta #0" = -1
+	"Saugandeva #0" = 0
+	"Sindhu #1" = 10
+	"Siyaka #1" = 10
+	"Somasi #0" = 0
+	"Sulakshanpal #0" = 0
+	"Sundaridevi #0" = -1
+	"Tejahkantha #0" = 0
+	"Tejpal #0" = 0
+	"Udayaditya #1" = 10
+	"Vachhal #0" = 0
+	"Vairisimha #0" = 0
+	"Vakpati #1" = 10
+	"Vanraja #0" = 0
+	"Vatsraja #1" = 10
+	"Vihangpal #1" = 10
+	"Vijada-Dasasyandana #0" = 0
+	"Vindhyavarman #3" = 10
+	"Yasovarman #1" = 10
+}
+leader_names = {
+	"Bahadur"
+	"Bhilala"
+	"Changezi"
+	"Chattari"
+	"Chudasama"
+	"Farooqi"
+	"Gauri"
+	"Ghuri"
+	"Gilani"
+	"Haji"
+	"Jurjani"
+	"Kanjar"
+	"Khan"
+	"Khorasani"
+	"Latif"
+	"Malik"
+	"Mori"
+	"Naru"
+	"Pahore"
+	"Paramara"
+	"Solanki"
+	"Sultan"
+	"Tomara"
+	"Turani"
+	"Uzbek"
+}
+ship_names = {
+	"Alia"
+	"Betwa"
+	"Chambal"
+	"Dhasan"
+	"Fatimah"
+	"Ghambir"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Mahi"
+	"Narmada"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Salima"
+	"Shameena"
+	"Shipra"
+	"Suhalia"
+	"Yasmine"
+}

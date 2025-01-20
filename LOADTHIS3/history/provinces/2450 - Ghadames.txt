@@ -1,0 +1,16 @@
+owner = SAR
+controller = SAR
+capital = "Ghadames"
+is_city = yes
+culture = berber
+religion = catholic
+trade_goods = spices
+base_tax = 1
+base_production = 3
+base_manpower = 2
+add_core = SAR
+add_core = TLC
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

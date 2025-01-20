@@ -1,0 +1,137 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 178 163 143 }
+revolutionary_colors = { 13 8 13 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aimery #0" = 0
+	"Alena #0" = -1
+	"Alphonse #1" = 10
+	"Antal #0" = 0
+	"Barthélémi #1" = 10
+	"Beatritz #0" = -1
+	"Berchte #0" = -1
+	"Cécile #0" = -1
+	"Detleff #0" = 0
+	"Emmerich #0" = 0
+	"Frédéric #0" = 0
+	"Gotthard #0" = 0
+	"Hans #0" = 0
+	"Humbert #0" = 0
+	"Jaspert #0" = 0
+	"Jeanne #0" = -1
+	"Léonard #2" = 10
+	"Miklós #0" = 0
+	"Pernelle #0" = -1
+	"Raimbaut #0" = 0
+	"Robert #1" = 10
+	"Rutger #0" = 0
+	"Solène #0" = -1
+	"Stéphanie #0" = -1
+	"Vojslava #0" = -1
+	"William #0" = 0
+	"Zoltán #0" = 0
+}
+leader_names = {
+	"Desgouttes"
+	"Duquesne"
+	"Le Tellier"
+	"d'Ambleteuse"
+	"d'Aulnay"
+	"d'Entraigues"
+	"d'Estrées"
+	"d'Ornano"
+	"d'Usson"
+	"de Beauharnais"
+	"de Bercy"
+	"de Boissieu"
+	"de Bonnefoy"
+	"de Bonneuil"
+	"de Broglie"
+	"de Béthune"
+	"de Castaing"
+	"de Caumartin"
+	"de Chambly"
+	"de Chambronne"
+	"de Champmartin"
+	"de Chevigny"
+	"de Crussol"
+	"de Crèvecoeur"
+	"de Dampierre"
+	"de Galard"
+	"de La Barthe"
+	"de La Ferrandie"
+	"de La Galissonière"
+	"de La Mothe"
+	"de La Motte d'Airan"
+	"de La Porte"
+	"de Lhéry"
+	"de Luynes"
+	"de Marguerye"
+	"de Maurepas"
+	"de Neufchâtel"
+	"de Pellefort"
+	"de Richemont"
+	"de Rieu"
+	"de Rochechouart"
+	"de Rochemaure"
+	"de Saint Chamond"
+	"de Saint Esprit"
+	"de Saint Germain"
+	"de Saint Omer"
+	"de Siorac"
+	"de Tocqueville"
+	"de Tréville"
+	"de Vergennes"
+	"de Vibien"
+	"de Vigny"
+	"de Villeneuve"
+	"de la Bretonnière"
+	"de la Tour d'Auvergne"
+	"des Coulons"
+	"des Ecures"
+	"des Herbiers"
+	"du Bosquet"
+	"du Fournay"
+	"du Valentinois"
+}
+ship_names = {
+	"Barrois"
+	"Bera"
+	"Emperor Lothar"
+	"Lotharingen"
+	"Metz"
+	"Rene II Lothringen"
+	"Scoc"
+	"Sekjan"
+	"Skirmjan"
+	"Toul"
+	"Verdun"
+	"Warding"
+}

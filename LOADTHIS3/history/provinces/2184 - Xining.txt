@@ -1,0 +1,15 @@
+owner = Z01
+controller = Z01
+capital = "Xining"
+is_city = yes
+culture = xibei
+religion = buddhism
+trade_goods = salt
+fort_15th = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = CSH
+add_core = Z01
+discovered_by = chinese
+discovered_by = nomad_group

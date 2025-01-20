@@ -1,0 +1,79 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 47 132 124 }
+revolutionary_colors = { 10 8 10 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Allada #2" = 10
+	"Allayavema #0" = 0
+	"Amma #1" = 10
+	"Chellava #0" = -1
+	"Damayanti #0" = -1
+	"Durgaraja #1" = 10
+	"Gamakamba #0" = -1
+	"Ganapathideva #1" = 10
+	"Kaapayanayaka #0" = 0
+	"Kubjavishnuvardhana #0" = 0
+	"Mangiyuvaraja #1" = 10
+	"Prataparudra #0" = 0
+	"Prola #2" = 10
+	"Prthiviyaraja #0" = 0
+	"Sumanadevi #0" = -1
+	"Tiruccirrampalapattan #0" = 0
+	"Virabhadra #0" = 0
+	"Vishnuvardhana #0" = 0
+}
+leader_names = {
+	"Ambadeva"
+	"Gannaiah"
+	"Gona"
+	"Pandava"
+	"Racha"
+	"Rai"
+	"Reddy"
+	"Roy"
+	"Suryavamsa"
+	"Velama"
+}
+ship_names = {
+	"Anantavarman"
+	"Bishnupriya"
+	"Devarakonda"
+	"Godavari"
+	"Hidimba"
+	"Kataya"
+	"Konark"
+	"Krishnapriya"
+	"Kumar"
+	"Lakshmi"
+	"Masulipatnam"
+	"Naga"
+	"Paradeep"
+	"Parvati"
+	"Rachakonda"
+	"Radha"
+	"Rahu"
+	"Rajahmundry"
+	"Rakshasa"
+	"Sarasvati"
+	"Satapada"
+	"Vizianagaram"
+	"Warangal"
+}

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_110
+primary_culture = austrian
+capital = 1863
+1444.11.11= {
+	monarch = {
+		name = "Bernhard"
+		dynasty = "von Schweipünt"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1391.2.5
+		religion = converted_dynamic_faith_110
+		culture = austrian
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = infertile_personality
+	queen = {
+		name = "Alessandra"
+		dynasty = "di Ocri"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = STY
+		birth_date = 1415.12.25
+		death_date = 1475.12.25
+		female = yes
+		religion = converted_dynamic_faith_110
+		culture = italian
+	}
+	add_queen_personality = careful_personality
+	add_queen_personality = martial_educator_personality
+	heir = {
+		name = "Bernhard"
+		monarch_name = "Bernhard"
+		dynasty = "von Schweipünt"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1427.8.6
+		death_date = 1492.8.6
+		claim = 89
+		religion = catholic
+		culture = bavarian
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 93
+	add_treasury = 81
+}

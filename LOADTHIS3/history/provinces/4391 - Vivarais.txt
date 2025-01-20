@@ -1,0 +1,15 @@
+owner = FRA
+controller = FRA
+capital = "Viviers"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+trade_goods = wine
+base_tax = 3
+base_production = 3
+base_manpower = 5
+add_core = FRA
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,140 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 232 79 142 }
+revolutionary_colors = { 0 10 0 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	defensive_ideas
+	humanist_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+	trade_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	mughal_mansabdar
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abdallah #0" = 0
+	"Ahavamalla #2" = 10
+	"Ammaraja #0" = 0
+	"Amoghavarsha #3" = 10
+	"Anavota #0" = 0
+	"Ballaladeva #0" = 0
+	"Bhandanaditya #0" = 0
+	"Bhopal #0" = 0
+	"Bijjala #1" = 10
+	"Bukka #1" = 10
+	"Chamekamba #0" = -1
+	"Chennappa #0" = 0
+	"Danamava #0" = 0
+	"Dantidurga #1" = 10
+	"Dehanagadevi #0" = -1
+	"Dhruva #1" = 10
+	"Fang #0" = -1
+	"Gajankusha #0" = 0
+	"Gamakamba #0" = -1
+	"Ganapathideva #0" = 0
+	"Ganapathinayaka #0" = 0
+	"Gayatri #0" = -1
+	"Govinda #3" = 10
+	"Hariharamba #0" = -1
+	"Indra #2" = 10
+	"Jagadhekamalla #1" = 10
+	"Jayasimha #1" = 10
+	"Kalakampa #0" = 0
+	"Kammanayaka #0" = 0
+	"Karka #1" = 10
+	"Kaucalaiyâr #0" = -1
+	"Khottiga #1" = 10
+	"Kirtivarman #2" = 10
+	"Kossy #0" = 0
+	"Krishna #3" = 10
+	"Kumaradevi #0" = -1
+	"Mahadevi #0" = -1
+	"Mangalesa #1" = 10
+	"Marasimha #0" = 0
+	"Marulaganga #0" = 0
+	"Nagipoti #0" = -1
+	"Narasanayaka #1" = 10
+	"Nayapala #0" = 0
+	"Nrpakama #0" = 0
+	"Pertal #0" = -1
+	"Prolayavema #0" = 0
+	"Prthiviyaraja #0" = 0
+	"Pulakesi #2" = 10
+	"Rudramadevi #0" = -1
+	"Rudramba #0" = -1
+	"Sakavaarbai #0" = -1
+	"Sankama #1" = 10
+	"Sattiyavvai #0" = -1
+	"Satyasraya #1" = 10
+	"Sayeebai #0" = -1
+	"Shevanti #0" = -1
+	"Shivamara #2" = 10
+	"Shrimitradevi #0" = -1
+	"Sidhawa #0" = -1
+	"Somaditya #0" = 0
+	"Somalladevi #0" = -1
+	"Somesvara #3" = 10
+	"Sovideva #1" = 10
+	"Srimahadevi #0" = -1
+	"Tailapa #2" = 10
+	"Thirumalambike #0" = -1
+	"Têvânrâl #0" = -1
+	"Vahusdan #0" = 0
+	"Vijayaditya #1" = 10
+	"Vikramaditya #4" = 10
+	"Vimaladitya #1" = 10
+	"Vinayaditya #1" = 10
+	"Yuddamalla #0" = 0
+	"Yuddhamalla #0" = 0
+}
+leader_names = {
+	"Bahadur"
+	"Chetty"
+	"Khader"
+	"Khan"
+	"Khan Wallajah"
+	"Mudaliar"
+	"Rajapopalachari"
+	"Reddy"
+	"Saluva"
+	"Sastri"
+	"Thondaiman"
+	"ul Umra"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Ganga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Spiti"
+	"Yamuna"
+}

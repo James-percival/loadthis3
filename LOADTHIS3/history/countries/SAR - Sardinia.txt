@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = sardinian
+capital = 2986
+add_accepted_culture = berber
+1444.11.11= {
+	monarch = {
+		name = "Salluri"
+		dynasty = "de Torres"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1395.5.2
+		religion = catholic
+		culture = sardinian
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Beneita"
+		dynasty = "de Grifai"
+		adm = 5
+		dip = 4
+		mil = 6
+		country_of_origin = SAR
+		birth_date = 1392.4.24
+		death_date = 1452.4.24
+		female = yes
+		religion = catholic
+		culture = sardinian
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ugone"
+		monarch_name = "Ugone II"
+		dynasty = "de Torres"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1418.6.20
+		death_date = 1483.6.20
+		claim = 89
+		religion = catholic
+		culture = sardinian
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 106
+	add_treasury = 66
+}

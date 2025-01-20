@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = leonese
+capital = 1746
+1444.11.11= {
+	monarch = {
+		name = "Vela II"
+		dynasty = "Branco-Antequera"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1406.7.31
+		religion = catholic
+		culture = leonese
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = righteous_personality
+	queen = {
+		name = "Alduara"
+		dynasty = "de Yanguas"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = CAS
+		birth_date = 1389.5.16
+		death_date = 1449.5.16
+		female = yes
+		religion = catholic
+		culture = castillian
+	}
+	add_queen_personality = fertile_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Dulce"
+		monarch_name = "Dulce"
+		dynasty = "Branco-Antequera"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1428.10.7
+		death_date = 1493.10.7
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = leonese
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 82
+	add_treasury = 100
+}

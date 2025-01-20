@@ -1,0 +1,16 @@
+owner = GRE
+controller = GRE
+capital = "Naxos"
+is_city = yes
+culture = anatolian
+religion = orthodox
+trade_goods = wine
+base_tax = 6
+base_production = 6
+base_manpower = 3
+add_core = BYZ
+add_core = GRE
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

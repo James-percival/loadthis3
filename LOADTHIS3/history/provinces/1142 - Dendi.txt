@@ -1,0 +1,13 @@
+owner = SON
+controller = SON
+capital = "Lulama"
+is_city = yes
+culture = dynamic-nupe-bozo-culture-num1
+religion = sunni
+trade_goods = grain
+fort_15th = yes
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = SON
+discovered_by = sub_saharan

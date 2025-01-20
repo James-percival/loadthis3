@@ -1,0 +1,15 @@
+owner = Z0J
+controller = Z0J
+capital = "Dzhemenika"
+is_city = yes
+culture = khazak
+religion = orthodox
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = KZH
+add_core = Z0J
+add_permanent_claim = ZUN
+discovered_by = chinese
+discovered_by = nomad_group

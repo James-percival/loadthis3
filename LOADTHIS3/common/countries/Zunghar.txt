@@ -1,0 +1,142 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 129 97 62 }
+revolutionary_colors = { 13 8 13 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Ahu #0" = -1
+	"Ali #0" = 0
+	"Alp Arslan #1" = 10
+	"Anakhit #0" = -1
+	"Arigaba #1" = 10
+	"Arslan #1" = 10
+	"Art #1" = 10
+	"Behrang #0" = 0
+	"Bilge #1" = 10
+	"Bokut #1" = 10
+	"Bukha #1" = 10
+	"Bulgan #0" = 0
+	"Bügü #2" = 10
+	"Erzhena #0" = -1
+	"Godarz #0" = 0
+	"Hamdam #0" = -1
+	"Holuikhan #0" = -1
+	"Horkhudagh #1" = 10
+	"Ilig #1" = 10
+	"Irdimin #1" = 10
+	"Isen #1" = 10
+	"Kaikhusraw #0" = 0
+	"Khutula #0" = 0
+	"Khutulan #0" = -1
+	"Kutan #1" = 10
+	"Kül #1" = 10
+	"Methakan #0" = 0
+	"Pangtele #1" = 10
+	"Samar #1" = -1
+	"Sanzima #0" = -1
+	"Tsyren #0" = 0
+	"Tömür #1" = 10
+	"Yesügei #1" = 10
+	"Zongzhen #0" = 0
+}
+leader_names = {
+	"Baga-khotgoid"
+	"Barga"
+	"Bashgid"
+	"Besud"
+	"Bicheech"
+	"Borjigin"
+	"Burged"
+	"Choros"
+	"Chuluun"
+	"Dairtan"
+	"Darkhad"
+	"Doloon"
+	"Doloon-suvai"
+	"Dotno"
+	"Duutan"
+	"Ikh-khotgoid"
+	"Khaliuchin"
+	"Khariad"
+	"Khavkhchin"
+	"Khemchigiinkhen"
+	"Kherdeg"
+	"Khirgis"
+	"Khonin-khotgoid"
+	"Khorkhoinkhon"
+	"Khukh-nokhoinkhon"
+	"Khukh-nuur"
+	"Khukhnuud"
+	"Khurniad"
+	"Khuushan"
+	"Mudar"
+	"Myangad"
+	"Ogniud"
+	"Oimuud"
+	"Okhid"
+	"Onkhod"
+	"Orchid"
+	"Sharnuud"
+	"Tangud"
+	"Todno"
+	"Togoruutan"
+	"Toos"
+	"Tsognuud"
+	"Tsookhor"
+	"Tsuvdag"
+	"Tugchin"
+	"Tumt"
+	"Ukher-onkhod"
+	"Ukher-tsagaanikhan"
+	"Unduriinkhen"
+	"Uuld"
+	"Uushgiinkhan"
+	"Uushin"
+	"Uvur-togoruutan"
+	"Zelmen"
+	"ar-togoruutan"
+	"avkhainkhan"
+	"ayagachin"
+}
+ship_names = {
+	"Altan Khan"
+	"Amdo"
+	"Bargut"
+	"Buzav"
+	"Dorbot"
+	"Dzungar"
+	"Dörvn Öörd"
+	"Güshi"
+	"Kerait"
+	"Khoshot"
+	"Khoshut"
+	"Naiman"
+	"Olo"
+	"Olöts"
+	"Torgut"
+}
+army_names = {
+	"$PROVINCE$ Tumen"
+}

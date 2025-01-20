@@ -1,0 +1,13 @@
+owner = TUV
+controller = TUV
+capital = "Khiagt"
+is_city = yes
+culture = dynamic-mongol-culture-num1
+religion = orthodox
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 2
+add_core = TUV
+discovered_by = chinese
+discovered_by = nomad_group

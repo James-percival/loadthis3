@@ -1,0 +1,16 @@
+owner = Z56
+controller = Z56
+capital = "Barnaul"
+is_city = yes
+culture = dynamic-kirgiz-culture-num2
+religion = orthodox
+trade_goods = livestock
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = Z56
+add_permanent_claim = Z0E
+discovered_by = nomad_group
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3

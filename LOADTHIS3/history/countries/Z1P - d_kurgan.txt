@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = nomad_group
+religion = sunni
+primary_culture = bashkir
+capital = 1076
+religious_school = hanafi_school
+add_accepted_culture = nogaybak
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Kordil"
+		dynasty = "Kurgani"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 1394.9.19
+		religion = sunni
+		culture = bashkir
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = sinner_personality
+	queen = {
+		name = "Ketevan"
+		dynasty = "Kakhaberisdze"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z1P
+		birth_date = 1394.12.13
+		death_date = 1454.12.13
+		female = yes
+		religion = sunni
+		culture = turkish
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = infertile_personality
+	heir = {
+		name = "Tsul"
+		monarch_name = "Tsul II"
+		dynasty = "Kurgani"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1431.12.16
+		death_date = 1496.12.16
+		claim = 89
+		religion = sunni
+		culture = bashkir
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 73
+	add_treasury = 42
+}

@@ -1,0 +1,100 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 30 131 162 }
+revolutionary_colors = { 13 8 16 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_dragoon
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	bantu_plains_warfare
+	niger_kongolese_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Al'a'addin #0" = 0
+	"Amar #0" = 0
+	"Amita #0" = -1
+	"Aziza #0" = -1
+	"Baru #0" = 0
+	"Bay #0" = 0
+	"Bilqis #0" = -1
+	"Bindu #0" = -1
+	"Dabbalemi #0" = 0
+	"Demba #0" = 0
+	"Djeneba #0" = -1
+	"Edza #0" = -1
+	"Fadiga #1" = 10
+	"Golbahar #0" = -1
+	"Huma #0" = -1
+	"Hussayn #0" = 0
+	"Jamil #0" = 0
+	"Kalabi #0" = 0
+	"Kambine #0" = 0
+	"Khalid #0" = 0
+	"Khaterah #0" = -1
+	"Kusoy #1" = 10
+	"Layla #0" = -1
+	"Mahwash #0" = -1
+	"Malika #0" = -1
+	"Mas'ud #0" = 0
+	"Muhsin #0" = 0
+	"Muzaffar #1" = 10
+	"Nafissa #0" = -1
+	"Savintik #0" = -1
+	"Sogolon #0" = -1
+	"Tawfiq #1" = 10
+	"Togar #0" = 0
+	"Wahid #1" = 10
+	"Yeh'lem #0" = 0
+	"Zahir #0" = 0
+}
+leader_names = {
+	"Ahmat"
+	"Ardoum"
+	"Deby"
+	"Djammous"
+	"Kabadi"
+	"Malloum"
+	"Nahor"
+	"Oueddai"
+	"Terap"
+	"Yorassem"
+}
+ship_names = {
+	"Abd al-Djel Selma"
+	"Aritso"
+	"Arki"
+	"Ayoma"
+	"Bad al-Djel"
+	"Biri"
+	"Birkoru"
+	"Bulu"
+	"Dari"
+	"Djil"
+	"Dugu"
+	"Dunama"
+	"Dunama Dibbalem"
+	"Fune"
+	"Hume"
+	"Kachim Biri"
+	"Kade"
+	"Kature"
+	"Kure Gana"
+	"Kure Kura"
+	"Shu"
+}

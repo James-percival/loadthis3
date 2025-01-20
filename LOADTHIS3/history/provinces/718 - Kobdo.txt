@@ -1,0 +1,15 @@
+owner = Z18
+controller = Z18
+capital = "Kobdo"
+is_city = yes
+culture = khazak
+religion = sunni
+trade_goods = cloth
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = KZH
+add_core = Z18
+add_permanent_claim = Z2X
+discovered_by = chinese
+discovered_by = nomad_group

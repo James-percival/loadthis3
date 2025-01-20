@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = orthodox
+primary_culture = astrakhani
+capital = 2418
+1444.11.11= {
+	monarch = {
+		name = "Tukiy"
+		dynasty = "Tukiyid"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 1385.6.20
+		religion = orthodox
+		culture = astrakhani
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Prebrana"
+		dynasty = "of Kozlov"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = PTZ
+		birth_date = 1406.4.12
+		death_date = 1466.4.12
+		female = yes
+		religion = orthodox
+		culture = russian_culture
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Apskhih"
+		monarch_name = "Apskhih"
+		dynasty = "Tukiyid"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1430.11.25
+		death_date = 1495.11.25
+		claim = 89
+		religion = orthodox
+		culture = bolghar
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 44
+}

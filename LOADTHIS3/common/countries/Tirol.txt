@@ -1,0 +1,92 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 170 43 21 }
+revolutionary_colors = { 0 5 0 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	administrative_ideas
+	religious_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelheid #0" = -1
+	"Agnes #1" = -1
+	"Aldéric #0" = 0
+	"Aléarde #0" = -1
+	"Anno #0" = 0
+	"Antoinette #0" = -1
+	"Arnold #1" = 10
+	"Aubrey #0" = 0
+	"Barthélémi #0" = 0
+	"Berthold #3" = 10
+	"Bezprym #0" = 0
+	"Dietrich #0" = 0
+	"Frédéric #1" = 10
+	"Guntbert #0" = 0
+	"Hildebert #0" = 0
+	"Liutbert #1" = 10
+	"Lothaire #1" = 10
+	"Lothar #0" = 0
+	"Mechthild #0" = -1
+	"Mlada #0" = -1
+	"Rasso #0" = 0
+	"Rorgues #0" = 0
+	"Weichart #0" = 0
+	"Werner #0" = 0
+	"Wilhelm #0" = 0
+}
+leader_names = {
+	"Abenthung"
+	"Aschbacher"
+	"Blattl"
+	"Bucher"
+	"Eisenstecken"
+	"Hagleitner"
+	"Haspinger"
+	"Hofer"
+	"Krismer"
+	"Luger"
+	"Oblasser"
+	"Pfurtscheller"
+	"Rapp"
+	"Santer"
+	"Scholl"
+	"Speckbacher"
+	"Straub"
+	"Thalguter"
+}
+ship_names = {
+	"Bozen"
+	"Brenner"
+	"Brixen"
+	"Inn"
+	"Innsbruck"
+	"Kufstein"
+	"Meran"
+	"Stubaital"
+	"Zillertal"
+	"Öztal"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

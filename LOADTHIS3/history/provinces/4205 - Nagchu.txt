@@ -1,0 +1,14 @@
+owner = KAM
+controller = KAM
+capital = "Nagchu"
+is_city = yes
+culture = dynamic-tibetan-culture-num2
+religion = jain
+trade_goods = livestock
+base_tax = 5
+base_production = 1
+base_manpower = 3
+add_core = KAM
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

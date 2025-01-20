@@ -1,0 +1,15 @@
+owner = Z2Z
+controller = Z2Z
+capital = "Besançon"
+is_city = yes
+culture = burgundian
+religion = catholic
+trade_goods = salt
+base_tax = 7
+base_production = 4
+base_manpower = 6
+add_core = Z2Z
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

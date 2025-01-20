@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = nomad_group
+religion = orthodox
+primary_culture = cuman
+capital = 2412
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Manj"
+		dynasty = "Batpaktan"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1421.7.10
+		religion = orthodox
+		culture = cuman
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Savintik"
+		dynasty = "ve Uzen'"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = Z1Q
+		birth_date = 1417.9.26
+		death_date = 1477.9.26
+		female = yes
+		religion = orthodox
+		culture = bolghar
+	}
+	add_queen_personality = cruel_personality
+	add_queen_personality = drunkard_personality
+	heir = {
+		name = "Çilbu"
+		monarch_name = "Çilbu"
+		dynasty = "Batpaktan"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1438.5.13
+		death_date = 1503.5.13
+		claim = 89
+		religion = orthodox
+		culture = cuman
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 65
+	add_treasury = 26
+}

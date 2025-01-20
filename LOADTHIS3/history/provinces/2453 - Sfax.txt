@@ -1,0 +1,16 @@
+owner = Z51
+controller = Z51
+capital = "Sfax"
+is_city = yes
+culture = tunisian
+religion = sunni
+trade_goods = sugar
+base_tax = 3
+base_production = 4
+base_manpower = 2
+add_core = TUN
+add_core = Z51
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

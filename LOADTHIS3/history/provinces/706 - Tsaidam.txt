@@ -1,0 +1,15 @@
+owner = Z0N
+controller = Z0N
+capital = "Tsaidam"
+is_city = yes
+culture = chihan
+religion = sunni
+trade_goods = salt
+base_tax = 1
+base_production = 2
+base_manpower = 1
+add_core = YAN
+add_core = Z0N
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

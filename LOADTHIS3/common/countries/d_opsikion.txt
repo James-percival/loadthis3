@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 146 47 130 }
+monarch_names = {
+	"Alexios #0" = 0
+	"Andreas #1" = 10
+	"Apollonios #1" = 10
+	"Demetrios #0" = 0
+	"Diogenes #0" = 0
+	"Eirene #1" = -1
+	"Eudoxia #0" = -1
+	"Eustratios #0" = 0
+	"Evangelos #0" = 0
+	"Iouliana #0" = -1
+	"Isaakios #1" = 10
+	"Isaias #1" = 10
+	"Lazaros #0" = 0
+	"Litovoi #0" = 0
+	"Maria #0" = -1
+	"Nikephoros #0" = 0
+	"Niketas #0" = 0
+	"Sophia #0" = -1
+}

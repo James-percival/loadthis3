@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_110
+primary_culture = dynamic-breton-occitain-culture-num1
+capital = 174
+add_accepted_culture = basque
+1444.11.11= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = converted_dynamic_faith_110
+		culture = dynamic-breton-occitain-culture-num1
+	}
+	heir = {
+		name = "Ancelmes II"
+		dynasty = "Kissinger-Dax"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1437.3.15
+		death_date = 1502.3.15
+		claim = 89
+		religion = converted_dynamic_faith_110
+		culture = dynamic-breton-occitain-culture-num1
+	}
+}
+1444.11.11= {
+	add_prestige = 64
+	add_treasury = 74
+}

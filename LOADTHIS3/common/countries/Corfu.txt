@@ -1,0 +1,82 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 211 172 185 }
+revolutionary_colors = { 4 8 13 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Agafya #0" = -1
+	"Akateiaji #0" = 0
+	"Alexei #1" = 10
+	"Burmort #0" = 0
+	"Damianos #2" = 10
+	"Eusebia #0" = -1
+	"Gleb #0" = 0
+	"Isaakios #1" = 10
+	"Karima #0" = -1
+	"Prokopios #0" = 0
+	"Putiata #0" = 0
+	"Rurik #0" = 0
+	"Theodosios #0" = 0
+	"Vasilko #0" = 0
+}
+leader_names = {
+	"Balbi"
+	"Bouas"
+	"Capodistria"
+	"Fadrigue"
+	"Flamburiari"
+	"Gentilini"
+	"Giallina"
+	"Giorgio"
+	"Kourkoumelis"
+	"Marmora"
+	"Minotto"
+	"Pieri"
+	"Prosalendi"
+	"Soranzo"
+	"Sordina"
+	"Spathas"
+	"Theotokis"
+	"Tocco"
+	"Voulgaris"
+	"Zorzi"
+}
+ship_names = {
+	"Akra Agiou Andreou"
+	"Akra Gerogompos"
+	"Akra Liakas"
+	"Akra Mounta"
+	"Kaplos Lagana"
+	"Kefallonia"
+	"Kolpos Argostolion"
+	"Kolpos Myrtou"
+	"Prothumos Zakynthou"
+	"Steno Ithoakis"
+}

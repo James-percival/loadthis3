@@ -1,0 +1,17 @@
+owner = KBO
+controller = KBO
+capital = "Zuwarah"
+is_city = yes
+culture = berber
+religion = sunni
+trade_goods = fish
+base_tax = 5
+base_production = 3
+base_manpower = 5
+add_core = KBO
+add_core = TLC
+add_permanent_claim = TRP
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

@@ -1,0 +1,14 @@
+owner = ARA
+controller = ARA
+capital = "The Azores"
+is_city = yes
+culture = berber
+religion = catholic
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = ARA
+add_core = TLC
+add_permanent_claim = MOR
+add_permanent_claim = Z0Z

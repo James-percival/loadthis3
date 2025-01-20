@@ -1,0 +1,118 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 102 128 52 }
+revolutionary_colors = { 1 5 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	durrani_dragoon
+	durrani_rifled_musketeer
+	durrani_swivel
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abd al-Rashid #1" = 10
+	"Afarin #0" = -1
+	"Afshan #0" = -1
+	"Ali #1" = 10
+	"Arlsan Shah #1" = 10
+	"Asa #0" = -1
+	"Avizeh #0" = -1
+	"Behnam #1" = 10
+	"Behzad #0" = 0
+	"Changshou #0" = -1
+	"Drimé #0" = 0
+	"Esin #0" = -1
+	"Fardad #0" = 0
+	"Farrukhzad #1" = 10
+	"Farzin #0" = 0
+	"Firuze #0" = -1
+	"Forogh #0" = -1
+	"Fraidun #0" = 0
+	"Gulab #0" = 0
+	"Gulnaz #0" = -1
+	"Human #0" = 0
+	"Ibrahim #1" = 10
+	"Irandokht #0" = -1
+	"Ismail #1" = 10
+	"Khoram #2" = 10
+	"Khudadad #0" = 0
+	"Khurshid #0" = 0
+	"Khusraw Malik #1" = 10
+	"Khusraw Shah #1" = 10
+	"Kosha #0" = 0
+	"Mahmud #2" = 10
+	"Mardansina #0" = 0
+	"Masud #2" = 10
+	"Mawdud #1" = 10
+	"Mina #0" = -1
+	"Muhammad #2" = 10
+	"Musud #1" = 10
+	"Noshrad #2" = 10
+	"Parvin #0" = -1
+	"Parwana #0" = -1
+	"Porsuk #0" = 0
+	"Rukhshan #1" = 10
+	"Sabuktigin #1" = 10
+	"Serfiraz #0" = -1
+	"Shahla #0" = -1
+	"Shahrzad #0" = -1
+	"Shahzadeh #0" = -1
+	"Shirzad #1" = 10
+	"Shahpur #0" = 0
+	"Siamak #0" = 0
+	"Sougand #1" = 10
+	"Souzan #0" = -1
+	"Sima #0" = -1
+	"Targhutai #0" = 0
+	"Toramana #0" = 0
+	"Turaj #0" = 0
+	"Yzyrga #0" = -1
+	"Zand #0" = 0
+	"Zerîxan #0" = -1
+	"Zhila #0" = -1
+}
+leader_names = {
+	"Ahmad"
+	"Akhund"
+	"Amin"
+	"Ghazi"
+	"Hotaki"
+	"Karmal"
+	"Najibullah"
+	"Qadir"
+	"Rahman"
+	"Taraki"
+}
+ship_names = {
+	"Arghandab"
+	"Balkh"
+	"Dasht"
+	"Farah"
+	"Harirud"
+	"Harut"
+	"Hingol"
+	"Kabol"
+	"Kech"
+	"Khash"
+	"Kowkcheh"
+	"Murghab"
+	"Zhob"
+}

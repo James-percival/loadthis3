@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 382
+add_accepted_culture = al_suryah_arabic
+add_accepted_culture = armenian
+1444.11.11= {
+	monarch = {
+		name = "Guy II"
+		dynasty = "Savoie-Tripolis"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1387.12.24
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = greedy_personality
+	queen = {
+		name = "Agnes"
+		dynasty = "Hupoldinger"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = SYR
+		birth_date = 1386.12.16
+		death_date = 1446.12.16
+		female = yes
+		religion = catholic
+		culture = dynamic-swabian-culture-num2
+	}
+	add_queen_personality = calm_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Bernard"
+		monarch_name = "Bernard II"
+		dynasty = "Savoie-Tripolis"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1407.6.22
+		death_date = 1472.6.22
+		claim = 89
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 89
+	add_treasury = 65
+}

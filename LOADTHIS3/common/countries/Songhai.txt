@@ -1,0 +1,93 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 62 175 151 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	niger_kongolese_gunpowder_warfare
+	songhai_tribal_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Abu Bakr #0" = 0
+	"Adama #0" = -1
+	"Agdun #0" = 0
+	"Ahmed #0" = 0
+	"Al'a'addin #0" = 0
+	"Alima #0" = -1
+	"Amina #0" = -1
+	"Ammar #0" = 0
+	"Bakr #1" = 10
+	"Bisi #2" = 10
+	"Biyo #0" = 0
+	"Borgo #0" = 0
+	"Chindi #0" = -1
+	"Daara #0" = -1
+	"Dankataya #0" = 0
+	"Dua #0" = -1
+	"Fay #0" = 0
+	"Hassan #1" = 10
+	"Hawa #0" = -1
+	"Immeghar #0" = 0
+	"Isli #0" = 0
+	"Jalila #0" = -1
+	"Karima #0" = -1
+	"Laraba #0" = 0
+	"Malla #0" = 0
+	"Mar #0" = 0
+	"Monica #0" = -1
+	"Nafissa #0" = -1
+	"Nuru #0" = -1
+	"Ouankoy #0" = 0
+	"Sadiqa #0" = -1
+	"Salma #0" = -1
+	"Sanay #1" = 10
+	"Sorko-Ije #0" = 0
+	"Yalla #0" = -1
+	"Yasmin #0" = -1
+	"Zaynab #0" = -1
+}
+leader_names = {
+	"Amadou"
+	"Compaore"
+	"Diallo"
+	"Diarra"
+	"Keita"
+	"Lamizana"
+	"Modibo"
+	"Ouedraogo"
+	"Toure"
+	"Zerbo"
+}
+ship_names = {
+	"Akoi"
+	"Alayaman"
+	"Ali-Fay"
+	"Biyo-Kumoy"
+	"Biyu"
+	"Kinkin"
+	"Ku"
+	"Kukuray"
+	"Nintasanay"
+	"Takoi"
+	"Yama-Karaway"
+	"Za Kuroy"
+	"Zakoi"
+}

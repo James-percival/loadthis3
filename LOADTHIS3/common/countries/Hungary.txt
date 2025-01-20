@@ -1,0 +1,132 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 152 85 92 }
+revolutionary_colors = { 5 0 10 }
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	germanized_pike
+	hungarian_hussar
+	polish_hussar
+	polish_musketeer
+	polish_tercio
+	polish_winged_hussar
+	slavic_stradioti
+}
+monarch_names = {
+	"Alajos #0" = 0
+	"András #2" = 10
+	"Angyalka #0" = -1
+	"Arnoul #0" = 0
+	"Attila #1" = 10
+	"Bonuslo #0" = 0
+	"Béla #3" = 10
+	"Donát #0" = 0
+	"Douce #0" = -1
+	"Dömötör #0" = 0
+	"Fulöp #0" = 0
+	"Godila #0" = -1
+	"György #0" = 0
+	"Géza #3" = 10
+	"Hrdoslav #0" = 0
+	"Ibolya #0" = -1
+	"Imre #1" = 10
+	"István #3" = 10
+	"Jan #0" = 0
+	"Jenö #1" = 10
+	"Józsa #0" = -1
+	"Kornél #0" = 0
+	"Krešimir #1" = 10
+	"Kálmán #1" = 10
+	"László #1" = 10
+	"Marquart #0" = 0
+	"Mechthild #0" = -1
+	"Miklós #0" = 0
+	"Márk #0" = 0
+	"Nándor #1" = 10
+	"Oszkár #0" = 0
+	"Piroska #0" = -1
+	"Péter #2" = 10
+	"Rózsa #0" = -1
+	"Salamon #1" = 10
+	"Skarbimir #0" = 0
+	"Sulistryj #0" = 0
+	"Sviatoslava #0" = -1
+	"Sámuel #1" = 10
+	"Tacsony #0" = 0
+	"Taksony #1" = 10
+	"Tibor #1" = 10
+	"Tétény #1" = 10
+	"Vilmos #0" = 0
+	"Zoltán #1" = 10
+	"Zsolt #1" = 10
+	"Zwinislawa #0" = -1
+	"Álmos #1" = 10
+	"Árpád #1" = 10
+	"Swietoslawa #0" = -1
+}
+leader_names = {
+	"Alvinczy"
+	"Andrássy"
+	"Batthyány"
+	"Beleznay"
+	"Benovský"
+	"Bethlen"
+	"Bocskay"
+	"Báthory"
+	"Csák"
+	"Dessewffy"
+	"Esterházy"
+	"Festetics"
+	"Frangepán"
+	"Garay"
+	"Hadik"
+	"Horthy"
+	"Hunyadi"
+	"Kemeny"
+	"Kinizsi"
+	"Kán"
+	"Károlyi"
+	"Lackovic'"
+	"Losonci"
+	"Milványi"
+	"Mészáros"
+	"Nadasdy"
+	"Ozoray"
+	"Rozgonyi"
+	"Rákóczi"
+	"Széchenyi"
+	"Teleki"
+	"Thököly"
+	"Zichy"
+	"Zrinski"
+	"Zápolya"
+	"de Kovats"
+	"Šubic'"
+}
+ship_names = {
+	"Aranybulla"
+	"Arpad"
+	"Hunyadi Matyas"
+	"Kalman"
+	"Karoly Robert"
+	"Laszlo"
+	"Magyar"
+	"Nagy Lajos"
+	"Sigismund"
+	"Szent Istvan kiraly"
+}

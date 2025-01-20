@@ -1,0 +1,101 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 205 38 38 }
+revolutionary_colors = { 13 5 8 }
+historical_idea_groups = {
+	defensive_ideas
+	expansion_ideas
+	religious_ideas
+	offensive_ideas
+	naval_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Anna #0" = -1
+	"Aurengarde #1" = -1
+	"Davyd #0" = 0
+	"Gisèle #1" = -1
+	"Gleb #0" = 0
+	"Gradislava #1" = -1
+	"Grigoriy #0" = 0
+	"Malfrida #0" = -1
+	"Marina #1" = -1
+	"Mstislav #2" = 10
+	"Oleg #0" = 0
+	"Olena #0" = -1
+	"Prebrana #0" = -1
+	"Pribislava #0" = -1
+	"Péronelle #1" = -1
+	"Rodislav #1" = 10
+	"Stepan #0" = 0
+	"Svetozar #0" = 0
+	"Trifon #0" = 0
+	"Ulyana #0" = -1
+	"Vseslava #0" = -1
+	"Vyshata #0" = 0
+	"Xenia #0" = -1
+}
+leader_names = {
+	"Apraksin"
+	"Bagration"
+	"Barclay de Tolly"
+	"Bibikoff"
+	"Bodisco"
+	"Boruffsin"
+	"Golitzin"
+	"Kaibula"
+	"Kamenski"
+	"Kolzoff"
+	"Mensjikov"
+	"Mustislavski"
+	"Ostermann Tolstoy"
+	"Paletskij"
+	"Rajevski"
+	"Schuvalov"
+	"Sjeremetjev"
+	"Sjtjenjatvev"
+	"Tiesenhusen"
+	"Vasiljevitj"
+	"von Buxhoevden"
+	"von Knorring"
+	"von Lascy"
+}
+ship_names = {
+	"Coluna"
+	"Cortiza"
+	"D. Aleksandrovich"
+	"Dmitri Donskoi"
+	"Iausa"
+	"Ivan Kalita"
+	"Klin"
+	"Moscha"
+	"Mosnisk"
+	"Olescho"
+	"Piersek"
+	"Rurik"
+	"Schorna"
+	"Troitzkoy"
+	"Vasiliy I"
+	"Volga"
+	"Wolok"
+}

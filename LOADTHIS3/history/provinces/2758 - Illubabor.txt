@@ -1,0 +1,15 @@
+owner = KBO
+controller = KBO
+capital = "Illubabor"
+is_city = yes
+culture = sidamo
+religion = sunni
+trade_goods = slaves
+fort_15th = yes
+base_tax = 1
+base_production = 3
+base_manpower = 1
+add_core = KAF
+add_core = KBO
+discovered_by = east_african
+discovered_by = muslim

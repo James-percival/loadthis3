@@ -1,0 +1,16 @@
+owner = Z0P
+controller = Z0P
+capital = "Limoges"
+is_city = yes
+culture = dynamic-breton-occitain-culture-num1
+religion = catholic
+trade_goods = livestock
+hre = yes
+base_tax = 7
+base_production = 4
+base_manpower = 5
+add_core = Z0P
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western

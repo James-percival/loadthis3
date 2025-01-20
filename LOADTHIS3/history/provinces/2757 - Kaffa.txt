@@ -1,0 +1,14 @@
+owner = KBO
+controller = KBO
+capital = "Anderaccha"
+is_city = yes
+culture = sidamo
+religion = sunni
+trade_goods = gold
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = KAF
+add_core = KBO
+discovered_by = east_african
+discovered_by = muslim

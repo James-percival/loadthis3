@@ -1,0 +1,14 @@
+owner = Z4L
+controller = Z4L
+capital = "Messukylä"
+is_city = yes
+culture = finnish
+religion = orthodox
+trade_goods = fur
+base_tax = 1
+base_production = 2
+base_manpower = 1
+add_core = FIN
+add_core = Z4L
+discovered_by = eastern
+discovered_by = western

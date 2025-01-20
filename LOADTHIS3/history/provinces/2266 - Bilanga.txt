@@ -1,0 +1,13 @@
+owner = Z4Q
+controller = Z4Q
+capital = "Bilanga"
+is_city = yes
+culture = mali
+religion = sunni
+trade_goods = grain
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = GUR
+add_core = Z4Q
+discovered_by = sub_saharan

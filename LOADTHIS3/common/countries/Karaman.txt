@@ -1,0 +1,140 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 90 160 190 }
+revolutionary_colors = { 0 0 15 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	quality_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Afsin #0" = 0
+	"Aldebert #1" = 10
+	"Alexios #1" = 10
+	"Anatolios #1" = 10
+	"Arevig #1" = -1
+	"Danismend #0" = 0
+	"Kaikhusraw #1" = 10
+	"Kara #0" = 0
+	"Kilij Arslan #1" = 10
+	"Melik #1" = 10
+	"Murad #0" = 0
+	"Mustafa #1" = 10
+	"Nikephoros #1" = 10
+	"Nur #1" = -1
+	"Romanos #1" = 10
+	"Saltuk #0" = 0
+	"Selim #0" = 0
+	"Sirin #0" = -1
+	"Suleyman #1" = 10
+	"Togay #0" = 0
+	"Toktamis #0" = 0
+	"Uluç #0" = 0
+	"Umur #0" = 0
+}
+leader_names = {
+	"Alemdar"
+	"Amasyali"
+	"Ayas"
+	"Bali"
+	"Barbaros"
+	"Bayram"
+	"Cerrah"
+	"Cezzar"
+	"Civan"
+	"Damad"
+	"Defterdar"
+	"Dervis"
+	"Gazi"
+	"Gedik"
+	"Gümülcineli"
+	"Gürcü"
+	"Hadim"
+	"Hekimoglu"
+	"Hersekli"
+	"Ishak"
+	"Izzed"
+	"Kanijeli"
+	"Kara"
+	"Karamanli"
+	"Kavalali"
+	"Kaymak"
+	"Kemal"
+	"Kemankes"
+	"Koca"
+	"Köprülü"
+	"Köse"
+	"Küçük"
+	"Lala"
+	"Lefkeli"
+	"Malkoç"
+	"Müezzinzade"
+	"Nevsehirli"
+	"Nisanci"
+	"Oflu"
+	"Ohrili"
+	"Oruç"
+	"Osmancikli"
+	"Pargali"
+	"Pehlivan"
+	"Piri"
+	"Piyale"
+	"Rumi"
+	"Salih"
+	"Sari"
+	"Semiz"
+	"Serdar"
+	"Silahdar"
+	"Sokullu"
+	"Tarhuncu"
+	"Tayyar"
+	"Topal"
+	"Turgut"
+	"Uluç"
+	"Veli"
+	"Yemisçi"
+	"Çandarli"
+	"Çelebi"
+	"Çerkes"
+	"Çuhadar"
+}
+ship_names = {
+	"Bunsuz"
+	"Cilicia"
+	"Ermenek"
+	"Göksu"
+	"Gülnar"
+	"Karaman Bey"
+	"Larande"
+	"Mer"
+	"Mut"
+	"Nure Sufi"
+	"Sadaddin"
+	"Semseddin Mehmet"
+	"Silifke"
+	"Zeynül-Hac"
+}
+army_names = {
+	"$PROVINCE$ Ordusu"
+}
+fleet_names = {
+	"$PROVINCE$ Donanmasî"
+}

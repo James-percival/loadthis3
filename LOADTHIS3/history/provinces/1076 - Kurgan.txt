@@ -1,0 +1,13 @@
+owner = Z1P
+controller = Z1P
+capital = "Kurgan"
+is_city = yes
+culture = bashkir
+religion = sunni
+trade_goods = fur
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = Z1P
+add_permanent_claim = CMN
+discovered_by = nomad_group

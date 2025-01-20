@@ -1,0 +1,14 @@
+owner = NOV
+controller = NOV
+capital = "Kostroma"
+is_city = yes
+culture = dynamic-russian_culture-culture-num1
+religion = orthodox
+trade_goods = cloth
+base_tax = 3
+base_production = 2
+base_manpower = 2
+add_core = NOV
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western

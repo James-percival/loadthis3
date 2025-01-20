@@ -1,0 +1,17 @@
+owner = Z1D
+controller = Z1D
+capital = "Savah"
+is_city = yes
+culture = persian
+religion = sunni
+trade_goods = grain
+base_tax = 3
+base_production = 5
+base_manpower = 3
+add_core = PER
+add_core = Z1D
+add_permanent_claim = Z2G
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman

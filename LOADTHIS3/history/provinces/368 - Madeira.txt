@@ -1,0 +1,15 @@
+owner = ARA
+controller = ARA
+capital = "Funchal"
+is_city = yes
+culture = berber
+religion = catholic
+trade_goods = unknown
+fort_15th = yes
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = ARA
+add_core = TLC
+add_permanent_claim = MOR
+add_permanent_claim = Z0Z

@@ -1,0 +1,160 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 50 166 72 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_archers
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Adityasenagupta #1" = 10
+	"Amrapali #0" = -1
+	"Anantadevi #0" = -1
+	"Asima #0" = -1
+	"Ayus #0" = 0
+	"Basudevnayaran #0" = 0
+	"Bhairav Singh #0" = 0
+	"Bhavesh #0" = 0
+	"Bhikhari #0" = 0
+	"Bhumimitra #0" = 0
+	"Bibibai #0" = -1
+	"Birnayaran #1" = 10
+	"Bishwas Devi #0" = -1
+	"Chachinidevi #0" = -1
+	"Chandrasen #0" = 0
+	"Dandimahadevi #0" = -1
+	"Dasharathadeva #0" = 0
+	"Dattadevi #0" = -1
+	"Devagupta #1" = 10
+	"Devapala #1" = 10
+	"Devi Ahiylya #0" = -1
+	"Dharmapala #1" = 10
+	"Dhirsingha #1" = 10
+	"Dhruvadevi #0" = -1
+	"Gaurimahadevi #0" = -1
+	"Gopal #0" = 0
+	"Gopala #2" = 10
+	"Hariharamba #0" = -1
+	"Heramba #0" = 0
+	"Hira #0" = -1
+	"Jayapala #0" = 0
+	"Jivatagupta #1" = 10
+	"Ju #0" = 0
+	"Jyotirishwar #0" = 0
+	"Kalyanachandra #0" = 0
+	"Krishanmishra #1" = 10
+	"Kumarapala #1" = 10
+	"Kuvalayapida #1" = 10
+	"Lakshman #0" = -1
+	"Lalitaditya-Muktapida #1" = 10
+	"Madanapala #1" = 10
+	"Mahendrani #0" = -1
+	"Mahendrapala #1" = 10
+	"Mahipala #2" = 10
+	"Malavyadevi #0" = -1
+	"Muzuk #0" = 0
+	"Naranarayan #0" = 0
+	"Narayanapala #2" = 10
+	"Narsingh Dev #0" = 0
+	"Nayanadevi #0" = -1
+	"Nayapala #2" = 10
+	"Padma Singh #0" = 0
+	"Pradyot #0" = 0
+	"Prasadhanadevi #0" = -1
+	"Pratapnarayanroy #1" = 10
+	"Rajamati #0" = -1
+	"Rajrajendranarayan #0" = 0
+	"Rajyapala #2" = 10
+	"Ramabai #0" = -1
+	"Ramapala #1" = 10
+	"Rambhadra Singh Dev #1" = 10
+	"Ratnadevi #0" = -1
+	"Rudramba #0" = -1
+	"Rudranarayan #0" = 0
+	"Rameshwar #0" = 0
+	"Samar #0" = -1
+	"Shakrasingh Dev #0" = 0
+	"Shivanarayan #1" = 10
+	"Srimanta #0" = 0
+	"Sukhdev #0" = 0
+	"Sunita #0" = -1
+	"Surapala #1" = 10
+	"Tarabai #0" = -1
+	"Thirumalambike #0" = -1
+	"Vajraditya #1" = 10
+	"Vajramitra #0" = 0
+	"Vasujyeshtha #0" = 0
+	"Vigrahapala #2" = 10
+	"Vina #0" = -1
+	"Visnugupta #1" = 10
+	"Yasovarman #1" = 10
+	"Yayati #0" = 0
+	"Yesui #0" = -1
+	"Zhyelmotsün #0" = -1
+}
+leader_names = {
+	"Baruah"
+	"Borphukan"
+	"Chandra"
+	"Das"
+	"Deka"
+	"Kalita"
+	"Mahanta"
+	"Narayan"
+	"Prithu"
+	"Roy"
+}
+ship_names = {
+	"Brahmaputra"
+	"Chingri Mach"
+	"Darrang"
+	"Devi"
+	"Dibang"
+	"Durga Ma"
+	"Ganga"
+	"Hilsa Mach"
+	"Ilish Mach"
+	"Kali Ma"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kamrup"
+	"Lakimpur"
+	"Lal Nauk"
+	"Loki Devi"
+	"Luhit"
+	"Machli"
+	"Manasa Devi"
+	"Manjuli"
+	"Meghna"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Parvati Devi"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Saraswoti"
+	"Shakti"
+	"Shaktir Nauk"
+	"Shasti Ma"
+	"Sibsagar"
+	"Trishool"
+	"Uma Devi"
+}

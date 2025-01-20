@@ -1,0 +1,13 @@
+owner = Z0A
+controller = Z0A
+capital = "Iglino"
+is_city = yes
+culture = nogaybak
+religion = sunni
+trade_goods = fur
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = NOG
+add_core = Z0A
+discovered_by = nomad_group

@@ -1,0 +1,16 @@
+owner = Z3G
+controller = Z3G
+capital = "Tetyushi"
+is_city = yes
+culture = chuvash
+religion = orthodox
+trade_goods = grain
+base_tax = 2
+base_production = 2
+base_manpower = 1
+add_core = CVS
+add_core = Z3G
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = western

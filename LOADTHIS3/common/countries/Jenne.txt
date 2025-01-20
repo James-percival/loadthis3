@@ -1,0 +1,80 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 55 158 198 }
+revolutionary_colors = { 5 8 9 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	mali_tribal_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Aminata #0" = -1
+	"Aoua #0" = -1
+	"Boukar #0" = 0
+	"Brak #0" = 0
+	"Davud #0" = 0
+	"Demba #0" = -1
+	"Emsire #0" = -1
+	"Fanaan #0" = 0
+	"Fatima #0" = -1
+	"Ferne #0" = 0
+	"Fuluku #0" = 0
+	"Kansoleh #0" = -1
+	"Kolonkan #0" = -1
+	"Latif #0" = 0
+	"Lorane #0" = -1
+	"Majan #0" = 0
+	"Mariam #0" = -1
+	"Mbodj #0" = -1
+	"Ndate #0" = -1
+	"Ndieumbeutt #0" = -1
+	"Sakho #0" = 0
+	"Soumaoro #1" = 10
+	"Soumaré #0" = 0
+	"Tunka #0" = 0
+	"Tunka-Menin #2" = 10
+	"Yerim #0" = 0
+}
+leader_names = {
+	"Chichuana"
+	"Cossa"
+	"Machel"
+	"Machungo"
+	"Mbazia"
+	"Mondlane"
+	"Mutola"
+	"Sanyang"
+	"Sarea"
+	"Vashko"
+}
+ship_names = {
+	"Debo"
+	"Heinyaho"
+	"Jeneema"
+	"Korondugu"
+	"Kotya"
+	"Pondori"
+	"Sorko"
+	"Sorogama"
+	"Tigermaxo"
+	"Tiéma ciéwe"
+	"Tiéyaho"
+}

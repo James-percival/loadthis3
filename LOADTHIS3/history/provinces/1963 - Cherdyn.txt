@@ -1,0 +1,15 @@
+owner = Z30
+controller = Z30
+capital = "Cherdyn"
+is_city = yes
+culture = uralic
+religion = siberian_pagan
+trade_goods = salt
+base_tax = 1
+base_production = 1
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1
+add_core = Z30
+discovered_by = eastern
+discovered_by = nomad_group
