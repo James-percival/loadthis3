@@ -476,7 +476,7 @@ french = {
 	angevin = { primary = ALE }
 	auvergnat = { primary = AUV }
 	arpitan = { primary = DAU }
-	gallo = { primary = ENG }
+	gallo = { primary = FRA }
 	lengadocian = { primary = TOU }
 	poitevin = { primary = ORL }
 	provancale = { primary = PRO }
